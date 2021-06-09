@@ -4,7 +4,7 @@ Here contains the various files I use for my pico projects
 I have a few dependancies. 
 
 For the micropython files i am using the Pimoroni-pico-uf2 v0.2.1
-Which can be found here: https://github.com/pimoroni/pimoroni-pico/releases/tag/v0.2.2
+Which can be found here: https://github.com/pimoroni/pimoroni-pico/releases/tag/v0.2.1
 
 The Pimoroni libraries I use are found on: https://github.com/pimoroni/pimoroni-pico/tree/main/micropython
 
