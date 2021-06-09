@@ -1,3 +1,0 @@
-[submodule "micropython/modules/ulab"]
-	path = micropython/modules/ulab
-	url = https://github.com/v923z/micropython-ulab.git
