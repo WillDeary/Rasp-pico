@@ -1,5 +1,5 @@
 
-#DHT
+# DHT11 INTERFACE 
 There are two files here the DHT11 interface and the main.py file.
 
 There is an in-depth tutorial on: https://how2electronics.com/interfacing-dht11-temperature-humidity-sensor-with-raspberry-pi-pico/
